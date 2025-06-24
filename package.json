@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Al-Bayaan Organization Website — a charity web application built with Express and EJS, providing information about the organization's mission, projects, donation options, and contact details. Designed to promote compassion, transparency, and community service.",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Abdikarim Mohamed (Technical Manager)",
   "license": "ISC",
